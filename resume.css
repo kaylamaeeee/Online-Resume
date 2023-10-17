@@ -1,0 +1,153 @@
+.box{
+    width: 650px;
+    height: 700px;
+    margin-left: 380px;
+    border: 1px solid black;
+    
+}
+
+.tfnt{
+    font-size:medium;
+    font-family: serif;
+    text-indent: 1px;
+}
+
+
+.img{
+    width: 150px;
+    position: relative;
+    top: 30px;
+    left: 30px;
+    border-style: solid;
+    
+
+}
+
+.bg{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.bgtxt{
+    background-color: aqua;
+}
+
+.txtindnt{
+    text-indent: 58px;
+}
+
+.txtindent{
+    text-indent: 90px;
+}
+
+.border{
+    border: 1px solid black;
+    width: 220px;
+    height: 690px;
+    background-color:#ee82ee;
+    margin: 6px 5px 0px 10px;
+    top: 60px;
+    left: 80px;
+    
+}
+
+.middle{
+    margin-right: 2px;
+}
+
+.txtindnt2{
+    text-indent: 10px;
+    font-size: small;
+}
+
+.txtindnt3{
+    text-indent: 12px;
+    font-size: medium;
+}
+
+.borderr{
+    font-size: large;
+    position: absolute;
+    top: 130px;
+    left:630px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.borderrr{
+    font-size: large;
+    position: absolute;
+    top: 140px;
+    left:630px;
+    font-family:Arial;
+}
+
+.brdr{
+    font-size: large;
+    position: absolute;
+    top: 250px;
+    left:620px;
+    width: 400px;
+    background-color: blueviolet;
+    font-family: Arial;
+}
+
+.tp{
+    top: 290px;
+}
+
+.brdrr{
+    font-size: large;
+    position: absolute;
+    top: 400px;
+    left:620px;
+    width: 400px;
+    background-color: blueviolet;
+    font-family: Arial;
+}
+
+.tpp{
+    top: 290px;
+}
+
+.borderrrr{
+    font-size: large;
+    position: absolute;
+    top: 425px;
+    left:630px;
+    font-family:Arial;
+}
+
+.border5{
+    font-size: large;
+    position: absolute;
+    top: 480px;
+    left:630px;
+    font-family:Arial;
+}
+
+.border6{
+    font-size: large;
+    position: absolute;
+    top: 520px;
+    left:630px;
+    font-family:Arial;
+}
+
+.brdrrr{
+    font-size: large;
+    position: absolute;
+    top: 570px;
+    left:620px;
+    width: 400px;
+    background-color: blueviolet;
+    font-family: Arial;
+}
+
+.border7{
+    font-size: large;
+    position: absolute;
+    top: 600px;
+    left:630px;
+    font-family:Arial;
+}
